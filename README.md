@@ -106,5 +106,5 @@ python scripts/load_to_mysql.py
 
 Vikas Surya  
 GitHub: https://github.com/VikasSurya  
-LinkedIn: https://www.linkedin.com/in/vikas-surya
+LinkedIn: https://www.linkedin.com/in/vikassurya
 
